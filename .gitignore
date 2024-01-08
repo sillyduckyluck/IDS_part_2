@@ -1,0 +1,13 @@
+*.sh
+*.csv
+*.xes
+*.sh
+/Part_1/*.txt
+/Part_1/*.csv
+Part_1/Anaconda3-2023.09-0-Linux-x86_64.sh
+/Part_1/Anaconda3-2023.09-0-Linux-x86_64.sh
+/Part_1/Anaconda3-2023.09-0-Linux-x86_64.sh
+/Part_2/dataset/*.csv
+/Part_2/dataset/*.xes
+
+
